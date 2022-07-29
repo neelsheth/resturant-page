@@ -11,7 +11,7 @@
        -> Reserve Table
     
     1> Home Page
-    ![ALT](/images/pizza2.png)
+    ![ALT](/pizza2.png)
 
 
 
