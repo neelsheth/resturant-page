@@ -11,7 +11,7 @@
        -> Reserve Table
     
     1> Home Page
-    <a href"https://blended-nutrition.netlify.app/">
+    ![ALT](/images/pizza2.png)
 
 
 
