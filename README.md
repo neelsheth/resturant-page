@@ -11,7 +11,7 @@
        -> Reserve Table
     
     1> Home Page
-    ![](images/pizza2.png)
+      ![image](https://user-images.githubusercontent.com/108276436/181704133-4e58bdcc-9e48-479b-a37c-a1f61112eccc.png)
 
 
 
